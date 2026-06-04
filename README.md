@@ -5,10 +5,7 @@
   ![Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=AI-Augmented+Full+Stack+Developer;Generative+AI+Enthusiast;Building+Intelligent+Web+Solutions;Crafting+Scalable+Backend+Systems;Exploring+the+Future+of+AI)
 
   <!-- Professional Badge Section -->
-  <p>
-    <a href="https://github.com/Nibha840"><img src="https://img.shields.io/github/followers/Nibha840?label=Followers&style=social&logo=github" alt="GitHub Followers"/></a>
-    <a href="https://github.com/Nibha840?tab=repositories"><img src="https://img.shields.io/badge/GitHub-@Nibha840-181717?logo=github&logoColor=white&style=flat" alt="GitHub Badge"/></a>
-  </p>
+ 
 
   <!-- Expertise Badges -->
   <div>
@@ -361,7 +358,7 @@ I'm an **AI-Augmented Full Stack Developer** and **Generative AI Enthusiast** pa
 
 ---
 
-## 🤝 Connect & Collaborate
+## 🤝  Collaborate
 
 <div align="center">
 
@@ -373,13 +370,6 @@ I'm actively looking for opportunities in:
 - 📚 **Open Source Projects**
 - 🔬 **Research & Innovation**
 
-### Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nibha-kumari-882b4a24b/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NibhaKumari)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nibha840)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nibhakumari840@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://nibha840.vercel.app/)
 
 ### 💬 Let's Collaborate!
 
@@ -402,7 +392,7 @@ I'm enthusiastic about:
 
 | Metric | Highlight |
 |--------|-----------|
-| 🎓 **Education** | B.Tech CSE, Bennett University (CGPA: 8.4/10) |
+| 🎓 **Education** | B.Tech CSE, Bennett University  |
 | 💻 **Full Stack Projects** | 5+ production-ready applications |
 | 🤖 **AI/ML Projects** | BU AI Chatbot, Time Series Forecasting |
 | 🔧 **Backend Optimization** | 90% DB load reduction, 30% query improvement |
@@ -507,8 +497,6 @@ Check out my latest projects and contributions:
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nibha840&color=00D4FF&style=flat-square&label=Profile+Views)
-![GitHub User's stars](https://img.shields.io/github/stars/Nibha840?affiliations=OWNER%2CCOLLABORATOR&label=Total+Stars&style=flat-square)
 
 **Last Updated:** June 2024 | [Report Issues](https://github.com/Nibha840/Nibha840/issues)
 
