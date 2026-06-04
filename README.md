@@ -240,26 +240,6 @@ I'm an **AI-Augmented Full Stack Developer** and **Generative AI Enthusiast** pa
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 📈 GitHub Statistics
-![Nibha840's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nibha840&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=ffffff)
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nibha840&theme=tokyonight&hide_border=true&background=0d1117)
-
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nibha840&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff)
-
-### 🎯 Activity Graph
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nibha840&theme=tokyonight)
-
-</div>
-
----
-
 ## 🔬 Research & Analytics
 
 ### **Comparative Analysis of Deep Learning Architectures for Time Series Forecasting**
@@ -336,12 +316,7 @@ I'm an **AI-Augmented Full Stack Developer** and **Generative AI Enthusiast** pa
 
 ---
 
-## 📚 Open Source & Continuous Learning
-
-### 🔗 Open Source Contributions
-- Active contributor to open-source projects
-- Committed to improving developer tools and libraries
-- Collaborative mindset with the global tech community
+## 📚  Continuous Learning
 
 ### 📖 Learning Path & Specialization
 - **Full Stack Development:** MERN Stack, REST APIs, Real-time Systems
@@ -494,10 +469,5 @@ Check out my latest projects and contributions:
 > *"Building the future, one line of code at a time. Passionate about AI, Full Stack Development, and creating products that matter."*
 
 **Let's build something amazing together! 🚀**
-
----
-
-
-**Last Updated:** June 2024 | [Report Issues](https://github.com/Nibha840/Nibha840/issues)
 
 </div>
