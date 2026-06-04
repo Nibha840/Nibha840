@@ -6,7 +6,7 @@
 
 **Full Stack Developer** | **Generative AI** | **Backend Engineer**
 
-📍 India | 🎓 B.Tech CSE, Bennett University (2023-2027) | CGPA: 8.4/10
+📍 India | 🎓 B.Tech CSE, Bennett University (2023-2027) 
 
 </div>
 
@@ -54,7 +54,7 @@ AI-Augmented Full Stack Developer passionate about building intelligent, scalabl
 - [Repository](https://github.com/Nibha840/movie_bookingRNatve)
 
 ### **GharPay CRM** – Enterprise Lead Management
-- Manages 1000+ leads with role-based access control
+- Manages 100+ leads with role-based access control
 - Dashboard & analytics system | 30% efficiency improvement
 - [Repository](https://github.com/Nibha840/GharPay-Proj)
 
@@ -65,14 +65,6 @@ AI-Augmented Full Stack Developer passionate about building intelligent, scalabl
 ### **RFQ Auction System** – Real-Time Bidding Platform
 - Socket.io live updates | Concurrent bidding support
 - 90% database load reduction through query optimization
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nibha840&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nibha840&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -104,10 +96,9 @@ AI-Augmented Full Stack Developer passionate about building intelligent, scalabl
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/nibha-kumari-882b4a24b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](http://linkedin.com/in/nibha-kumari-3a212828a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Nibha840)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:nibhakumari840@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/NibhaKumari)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:nibha6470@gmail.com)
 
 **Open to:** Full-time roles | Internships | Freelance projects | Open-source contributions
 
@@ -116,7 +107,4 @@ AI-Augmented Full Stack Developer passionate about building intelligent, scalabl
 <div align="center">
 
 > *"Building intelligent solutions through clean code and continuous learning."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nibha840&color=00D4FF&style=flat-square)
-
 </div>
