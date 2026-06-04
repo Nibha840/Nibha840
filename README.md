@@ -19,7 +19,7 @@
 
   <!-- Quick Info -->
   <p>
-    <strong>📍 Location:</strong> India | <strong>🎓 B.Tech CSE</strong> Bennett University (2023-2027) | <strong>📊 CGPA:</strong> 8.4/10
+    <strong>📍 Location:</strong> India | <strong>🎓 B.Tech CSE</strong> Bennett University (2023-2027) 
   </p>
 
 </div>
@@ -40,14 +40,9 @@ I'm an **AI-Augmented Full Stack Developer** and **Generative AI Enthusiast** pa
 
 ### 🎓 Education & Background
 - **B.Tech in Computer Science & Engineering** — Bennett University (2023-2027)
-- **CGPA:** 8.4/10
 - **Specialization:** Full Stack Development, Generative AI, System Design
 
-### 💼 Professional Experience
-- **Data Analyst Intern** — Imarticus Learning
-  - Optimized 50+ SQL queries (30% performance improvement)
-  - Built Power BI dashboards tracking 10+ KPIs
-  - Performed data validation and anomaly detection
+
 
 ---
 
