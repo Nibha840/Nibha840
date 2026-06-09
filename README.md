@@ -68,9 +68,8 @@ AI-Augmented Full Stack Developer passionate about building intelligent, scalabl
 - [Repository](https://github.com/Nibha840/RFQ-British-Auction-System)
 
 ### **AI Research Agent** – Autonomous Web Research Platform
-- Processes 50+ web sources generating structured PDF reports in <2 minutes
-- Integrated Playwright for web automation & Gemini API for content synthesis
-- Fallback & retry mechanisms improving reliability during API failures
+- Processes 50+ web sources → PDF reports in <2 minutes
+- Playwright web automation + Gemini API for content extraction & synthesis
 - [Repository](https://github.com/Nibha840/AI-Research-Agent)
 
 ---
