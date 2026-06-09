@@ -6,7 +6,7 @@
 
 **Full Stack Developer** | **Generative AI** | **Backend Engineer**
 
-📍 India | 🎓 B.Tech CSE, Bennett University (2023-2027) | CGPA: 8.4/10
+📍 India | 🎓 B.Tech CSE, Bennett University (2023-2027)
 
 </div>
 
@@ -71,14 +71,6 @@ AI-Augmented Full Stack Developer passionate about building intelligent, scalabl
 - Processes 50+ web sources → PDF reports in <2 minutes
 - Playwright web automation + Gemini API for content extraction & synthesis
 - [Repository](https://github.com/Nibha840/AI-Research-Agent)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nibha840&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nibha840&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
