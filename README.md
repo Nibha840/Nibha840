@@ -36,7 +36,7 @@ AI-Augmented Full Stack Developer passionate about building intelligent, scalabl
 
 **AI/ML:** ChatGPT | Claude | Gemini | GitHub Copilot | Prompt Engineering | NLP
 
-**Tools:** Git | GitHub | Docker | Postman | VS Code | Power BI
+**Automation & Tools:** Playwright | n8n | Git | GitHub | Docker | Postman | VS Code | Power BI
 
 ---
 
@@ -67,6 +67,12 @@ AI-Augmented Full Stack Developer passionate about building intelligent, scalabl
 - 90% database load reduction through query optimization
 - [Repository](https://github.com/Nibha840/RFQ-British-Auction-System)
 
+### **AI Research Agent** – Autonomous Web Research Platform
+- Processes 50+ web sources generating structured PDF reports in <2 minutes
+- Integrated Playwright for web automation & Gemini API for content synthesis
+- Fallback & retry mechanisms improving reliability during API failures
+- [Repository](https://github.com/Nibha840/AI-Research-Agent)
+
 ---
 
 ## 📊 GitHub Stats
@@ -83,7 +89,7 @@ AI-Augmented Full Stack Developer passionate about building intelligent, scalabl
 |---|---|
 | **Microsoft Innovate Hackathon** | Top 10 Finalist |
 | **Problem Solving** | 300+ DSA problems solved |
-| **Full Stack Projects** | 5+ production-ready applications |
+| **Full Stack Projects** | 6+ production-ready applications |
 | **DB Optimization** | 90% load reduction, 30% query improvement |
 | **SQL Optimization** | 50+ queries optimized |
 
