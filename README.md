@@ -4,7 +4,7 @@
   
 ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI-Augmented+Full+Stack+Developer;Generative+AI+Enthusiast;Building+Scalable+Solutions)
 
-**Full Stack Developer** | **Generative AI** | **Backend Engineer**
+**Full Stack Developer** | **Generative AI** | **Backend Engineer** | **Testing & QA**
 
 📍 India | 🎓 B.Tech CSE, Bennett University (2023-2027)
 
